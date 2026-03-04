@@ -1,1 +1,1 @@
-"This is a bad commit" 
+"my git knowledge Repo" 
